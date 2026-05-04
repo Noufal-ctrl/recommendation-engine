@@ -5,6 +5,3 @@ data/
 *.pyc
 *.pdf
 slide-*.jpg
-.DS_Store
-.vscode/
-.idea/
