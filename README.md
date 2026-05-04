@@ -217,5 +217,3 @@ This project demonstrates how to build a **real-time, explainable, AI-powered re
 
 ---
 
-
-Just tell 👍
